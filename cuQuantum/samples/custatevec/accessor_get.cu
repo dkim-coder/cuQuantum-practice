@@ -7,7 +7,7 @@
 #include <cuda_runtime_api.h> // cudaMalloc, cudaMemcpy, etc.
 #include <cuComplex.h>        // cuDoubleComplex
 #include <custatevec.h>       // custatevecApplyMatrix
-#include <stdio.h>            // printf
+#include <stdio.h>            // printfss
 #include <stdlib.h>           // EXIT_FAILURE
 
 #include "helper.hpp"         // HANDLE_ERROR, HANDLE_CUDA_ERROR
